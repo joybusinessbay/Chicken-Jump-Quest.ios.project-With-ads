@@ -4,14 +4,14 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Cordova.xcscheme_^#shared#^_</key>
+		<key>Cordova.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>CordovaLib.xcscheme_^#shared#^_</key>
+		<key>CordovaLib.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
