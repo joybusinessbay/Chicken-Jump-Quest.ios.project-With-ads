@@ -7,3 +7,4 @@ build/
 # Xcode user-specific files (do not commit)
 xcuserdata/
 *.xcuserstate
+*.xcuserstate
