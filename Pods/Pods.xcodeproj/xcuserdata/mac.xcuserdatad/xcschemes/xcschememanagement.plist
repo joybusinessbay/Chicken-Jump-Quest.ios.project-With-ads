@@ -4,31 +4,31 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Google-Mobile-Ads-SDK-GoogleMobileAdsResources.xcscheme_^#shared#^_</key>
+		<key>Google-Mobile-Ads-SDK-GoogleMobileAdsResources.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
-		<key>Google-Mobile-Ads-SDK.xcscheme_^#shared#^_</key>
+		<key>Google-Mobile-Ads-SDK.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>GoogleUserMessagingPlatform.xcscheme_^#shared#^_</key>
+		<key>GoogleUserMessagingPlatform.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
-		<key>Pods-Chicken Jump Quest.xcscheme_^#shared#^_</key>
+		<key>Pods-Chicken Jump Quest.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
+			<false/>
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>

@@ -10,6 +10,7 @@
 		0207DA581B56EA530066E2B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0207DA571B56EA530066E2B4 /* Assets.xcassets */; };
 		032D21951C1749CDBEEBD67F /* AMBContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1630B750F6784DD5AB4FD269 /* AMBContext.swift */; };
 		03EE4796FA3249439DAD84D4 /* IdfaPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 169153C9929E4DF9AF80ECF2 /* IdfaPlugin.m */; };
+		0AAACF71E471075950218AC2 /* Pods_Chicken_Jump_Quest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60737DDA5186E6A45BA1F1EA /* Pods_Chicken_Jump_Quest.framework */; };
 		1088EA28AF5D498DA894EF56 /* CDVDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F566D797E84B189E255D5C /* CDVDevice.m */; };
 		1D3623260D0F684500981E51 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* AppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
@@ -37,7 +38,6 @@
 		CC25E4B2A3BD47C2A36A884C /* AMBPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70CC84F79E8141FDA8EBC301 /* AMBPlugin.swift */; };
 		CE89725CCD114455BD82B893 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = BA1D720E310D48039205447F /* CDVStatusBar.m */; };
 		D24FB9682696486294EAB614 /* CDVInAppBrowserOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3CCCAFBA9349CC94CA0A9C /* CDVInAppBrowserOptions.m */; };
-		D2D200CC817DC176A9451F60 /* Pods_Chicken_Jump_Quest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A069633338B6C25082A49645 /* Pods_Chicken_Jump_Quest.framework */; };
 		DDF9319C4C7E4CC5AB6F83BE /* CDVWKInAppBrowserUIDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E518677000484E168FB7B2AC /* CDVWKInAppBrowserUIDelegate.m */; };
 		DF81469F0B2546849DAAF07D /* AMBAdBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D2D1BF9779447099787A87 /* AMBAdBase.swift */; };
 		F808E433754D4C999EAF33C2 /* AMBCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07B4455B7A249A9828AE9ED /* AMBCore.swift */; };
@@ -107,13 +107,16 @@
 		3047A5111AB8059700498E2A /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = build.xcconfig; path = cordova/build.xcconfig; sourceTree = SOURCE_ROOT; };
 		32CA4F630368D1EE00C91783 /* Chicken Jump Quest-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Chicken Jump Quest-Prefix.pch"; sourceTree = "<group>"; };
 		33D0C63BA4C943ABB84B67F3 /* AMBRewardedInterstitial.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = AMBRewardedInterstitial.swift; path = "community-admob-plus-cordova/AMBRewardedInterstitial.swift"; sourceTree = "<group>"; };
+		3AC6B47485B0AD6C45F4F812 /* Pods-Chicken Jump Quest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chicken Jump Quest.release.xcconfig"; path = "Target Support Files/Pods-Chicken Jump Quest/Pods-Chicken Jump Quest.release.xcconfig"; sourceTree = "<group>"; };
 		3EB69DEF39044A0A8EC92921 /* AMBRewarded.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = AMBRewarded.swift; path = "community-admob-plus-cordova/AMBRewarded.swift"; sourceTree = "<group>"; };
 		4AA1F8BEC24A4FDEA4A66B02 /* AMBBanner.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = AMBBanner.swift; path = "community-admob-plus-cordova/AMBBanner.swift"; sourceTree = "<group>"; };
 		5172BC04247E48918DEF7576 /* IdfaPlugin.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = IdfaPlugin.h; path = "cordova-plugin-idfa/IdfaPlugin.h"; sourceTree = "<group>"; };
 		590E179D7B4C4DB2B60862BB /* AMBGenerated.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = AMBGenerated.swift; path = "community-admob-plus-cordova/AMBGenerated.swift"; sourceTree = "<group>"; };
 		5BB1786660F443F890BBCC30 /* CDVDevice.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = CDVDevice.h; path = "cordova-plugin-device/CDVDevice.h"; sourceTree = "<group>"; };
+		60737DDA5186E6A45BA1F1EA /* Pods_Chicken_Jump_Quest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Chicken_Jump_Quest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		657E0F9850E64277A106D44C /* AdSupport.framework */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
 		6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = CDVLaunchScreen.storyboard; sourceTree = "<group>"; };
+		6BF1AB4AC253AC325F1E574C /* Pods-Chicken Jump Quest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chicken Jump Quest.debug.xcconfig"; path = "Target Support Files/Pods-Chicken Jump Quest/Pods-Chicken Jump Quest.debug.xcconfig"; sourceTree = "<group>"; };
 		70CC84F79E8141FDA8EBC301 /* AMBPlugin.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = AMBPlugin.swift; path = "community-admob-plus-cordova/AMBPlugin.swift"; sourceTree = "<group>"; };
 		74F566D797E84B189E255D5C /* CDVDevice.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = CDVDevice.m; path = "cordova-plugin-device/CDVDevice.m"; sourceTree = "<group>"; };
 		759FF1CFB8744A65A802ECAA /* CSNContext.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = CSNContext.swift; path = "cordova-plugin-consent/CSNContext.swift"; sourceTree = "<group>"; };
@@ -123,12 +126,10 @@
 		8D1107310486CEB800E47090 /* Chicken Jump Quest-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Chicken Jump Quest-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		8D4F3CDFF27249A0AB87846A /* CDVWKInAppBrowser.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = CDVWKInAppBrowser.h; path = "cordova-plugin-inappbrowser/CDVWKInAppBrowser.h"; sourceTree = "<group>"; };
 		90B630EE2AECBBD0009EF368 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		A069633338B6C25082A49645 /* Pods_Chicken_Jump_Quest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Chicken_Jump_Quest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8BB29C625A540AB925BA92E /* CDVWKInAppBrowser.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = CDVWKInAppBrowser.m; path = "cordova-plugin-inappbrowser/CDVWKInAppBrowser.m"; sourceTree = "<group>"; };
 		BA1D720E310D48039205447F /* CDVStatusBar.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = CDVStatusBar.m; path = "cordova-plugin-statusbar/CDVStatusBar.m"; sourceTree = "<group>"; };
 		C138BCFA70BA48CCB14BE6DC /* CSNGenerated.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = CSNGenerated.swift; path = "cordova-plugin-consent/CSNGenerated.swift"; sourceTree = "<group>"; };
 		D07B4455B7A249A9828AE9ED /* AMBCore.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = AMBCore.swift; path = "community-admob-plus-cordova/AMBCore.swift"; sourceTree = "<group>"; };
-		E0748AE087274A12057B4976 /* Pods-Chicken Jump Quest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chicken Jump Quest.debug.xcconfig"; path = "Target Support Files/Pods-Chicken Jump Quest/Pods-Chicken Jump Quest.debug.xcconfig"; sourceTree = "<group>"; };
 		E518677000484E168FB7B2AC /* CDVWKInAppBrowserUIDelegate.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = CDVWKInAppBrowserUIDelegate.m; path = "cordova-plugin-inappbrowser/CDVWKInAppBrowserUIDelegate.m"; sourceTree = "<group>"; };
 		EB1FEBE6989B41DAAB044EE8 /* AMBNativeAd.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = AMBNativeAd.swift; path = "community-admob-plus-cordova/AMBNativeAd.swift"; sourceTree = "<group>"; };
 		EB87FDF31871DA8E0020F90C /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; name = www; path = ../../www; sourceTree = "<group>"; };
@@ -138,7 +139,6 @@
 		EE3CCCAFBA9349CC94CA0A9C /* CDVInAppBrowserOptions.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = CDVInAppBrowserOptions.m; path = "cordova-plugin-inappbrowser/CDVInAppBrowserOptions.m"; sourceTree = "<group>"; };
 		EFFDFCFB132F4A25A2464005 /* AppTrackingTransparency.framework */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = wrapper.framework; name = AppTrackingTransparency.framework; path = System/Library/Frameworks/AppTrackingTransparency.framework; sourceTree = SDKROOT; };
 		F523E777305B414C977F70A9 /* CDVStatusBar.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = CDVStatusBar.h; path = "cordova-plugin-statusbar/CDVStatusBar.h"; sourceTree = "<group>"; };
-		F81E2BEA778895425E8EFC85 /* Pods-Chicken Jump Quest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chicken Jump Quest.release.xcconfig"; path = "Target Support Files/Pods-Chicken Jump Quest/Pods-Chicken Jump Quest.release.xcconfig"; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = "Chicken Jump Quest/config.xml"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -150,7 +150,7 @@
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
 				7A21E0AC5D02464BB10E6E1C /* AppTrackingTransparency.framework in Frameworks */,
 				27DB251791D44503BAD61A87 /* AdSupport.framework in Frameworks */,
-				D2D200CC817DC176A9451F60 /* Pods_Chicken_Jump_Quest.framework in Frameworks */,
+				0AAACF71E471075950218AC2 /* Pods_Chicken_Jump_Quest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -165,7 +165,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+		29B97314FDCFA39411CA2CEA = {
 			isa = PBXGroup;
 			children = (
 				EB87FDF41871DAF40020F90C /* config.xml */,
@@ -215,7 +215,7 @@
 			children = (
 				EFFDFCFB132F4A25A2464005 /* AppTrackingTransparency.framework */,
 				657E0F9850E64277A106D44C /* AdSupport.framework */,
-				A069633338B6C25082A49645 /* Pods_Chicken_Jump_Quest.framework */,
+				60737DDA5186E6A45BA1F1EA /* Pods_Chicken_Jump_Quest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -280,8 +280,8 @@
 		50359FD1E8BC9842A1497068 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				E0748AE087274A12057B4976 /* Pods-Chicken Jump Quest.debug.xcconfig */,
-				F81E2BEA778895425E8EFC85 /* Pods-Chicken Jump Quest.release.xcconfig */,
+				6BF1AB4AC253AC325F1E574C /* Pods-Chicken Jump Quest.debug.xcconfig */,
+				3AC6B47485B0AD6C45F4F812 /* Pods-Chicken Jump Quest.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -302,12 +302,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Chicken Jump Quest" */;
 			buildPhases = (
-				68641DD5E19137FB6651DD65 /* [CP] Check Pods Manifest.lock */,
+				B7022E895D5734810022EA18 /* [CP] Check Pods Manifest.lock */,
 				857339E32710CC9700A1C74C /* Copy Staging Resources */,
 				1D60588D0D05DD3D006BFB54 /* Resources */,
 				1D60588E0D05DD3D006BFB54 /* Sources */,
 				1D60588F0D05DD3D006BFB54 /* Frameworks */,
-				6F9184F9AC1A280F24701A13 /* [CP] Copy Pods Resources */,
+				3D026C49087F6CB64AF12CDE /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -335,7 +335,7 @@
 				en,
 				Base,
 			);
-			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			mainGroup = 29B97314FDCFA39411CA2CEA;
 			productRefGroup = 19C28FACFE9D520D11CA2CBB /* Products */;
 			projectDirPath = "";
 			projectReferences = (
@@ -383,7 +383,24 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		68641DD5E19137FB6651DD65 /* [CP] Check Pods Manifest.lock */ = {
+		3D026C49087F6CB64AF12CDE /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Chicken Jump Quest/Pods-Chicken Jump Quest-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Chicken Jump Quest/Pods-Chicken Jump Quest-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Chicken Jump Quest/Pods-Chicken Jump Quest-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B7022E895D5734810022EA18 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -403,27 +420,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		6F9184F9AC1A280F24701A13 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Chicken Jump Quest/Pods-Chicken Jump Quest-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Chicken Jump Quest/Pods-Chicken Jump Quest-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Chicken Jump Quest/Pods-Chicken Jump Quest-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
