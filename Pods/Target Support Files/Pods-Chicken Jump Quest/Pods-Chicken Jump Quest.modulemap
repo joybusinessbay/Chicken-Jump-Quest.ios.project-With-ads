@@ -1,0 +1,6 @@
+framework module Pods_Chicken_Jump_Quest {
+  umbrella header "Pods-Chicken Jump Quest-umbrella.h"
+
+  export *
+  module * { export * }
+}
