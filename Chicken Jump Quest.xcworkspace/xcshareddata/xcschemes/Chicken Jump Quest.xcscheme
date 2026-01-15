@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-               BuildableName = "Chicken Jump Quest.app"
+               BuildableName = "Joys Chicken.app"
                BlueprintName = "Chicken Jump Quest"
                ReferencedContainer = "container:Chicken Jump Quest.xcodeproj">
             </BuildableReference>
@@ -31,7 +31,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "Chicken Jump Quest.app"
+            BuildableName = "Joys Chicken.app"
             BlueprintName = "Chicken Jump Quest"
             ReferencedContainer = "container:Chicken Jump Quest.xcodeproj">
          </BuildableReference>
@@ -54,7 +54,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "Chicken Jump Quest.app"
+            BuildableName = "Joys Chicken.app"
             BlueprintName = "Chicken Jump Quest"
             ReferencedContainer = "container:Chicken Jump Quest.xcodeproj">
          </BuildableReference>
@@ -71,7 +71,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "Chicken Jump Quest.app"
+            BuildableName = "Joys Chicken.app"
             BlueprintName = "Chicken Jump Quest"
             ReferencedContainer = "container:Chicken Jump Quest.xcodeproj">
          </BuildableReference>
